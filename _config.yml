@@ -1,0 +1,13 @@
+# GitHub Pages Configuration
+theme: jekyll-theme-cayman
+title: Alison Career Roadmaps
+description: Free learning paths for 30 in-demand careers using Alison courses
+show_downloads: true
+google_analytics: # Add your GA tracking ID here if desired
+
+# Social
+author: Career Roadmaps Team
+email: # Add contact email if desired
+
+# Build settings
+markdown: kramdown

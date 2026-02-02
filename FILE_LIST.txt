@@ -1,0 +1,51 @@
+ALISON CAREER ROADMAPS - COMPLETE FILE LIST
+
+Root Directory:
+├── README.md (Main homepage - 12.5 KB)
+├── LICENSE (MIT License)
+├── CONTRIBUTING.md (Contribution guidelines)
+├── GETTING_STARTED.md (Beginner's guide)
+├── DEPLOYMENT.md (GitHub deployment guide)
+├── PROJECT_SUMMARY.md (This project overview)
+├── _config.yml (GitHub Pages configuration)
+├── .gitignore (Git ignore rules)
+├── FILE_LIST.txt (This file)
+└── generate_roadmaps.py (Python generation script)
+
+Roadmaps Directory (30 files):
+roadmaps/
+├── ai-machine-learning-engineer.md ⭐ DETAILED
+├── data-scientist-analyst.md ⭐ DETAILED
+├── cybersecurity-specialist.md ⭐ DETAILED
+├── digital-marketing-specialist.md ⭐ DETAILED
+├── cloud-computing-engineer.md
+├── software-developer.md
+├── project-manager.md
+├── ux-designer.md
+├── financial-analyst.md
+├── healthcare-professionals.md
+├── renewable-energy-technician.md
+├── telehealth-coordinator.md
+├── robotics-engineer.md
+├── blockchain-developer.md
+├── sustainability-consultant.md
+├── sales-business-development.md
+├── supply-chain-manager.md
+├── content-creator-social-media.md
+├── electric-vehicle-technician.md
+├── devops-engineer.md
+├── mental-health-counselor.md
+├── prompt-engineer.md
+├── automation-specialist.md
+├── biomedical-engineer.md
+├── ecommerce-specialist.md
+├── hr-professional.md
+├── video-editor-multimedia.md
+├── electrician.md
+├── pharmaceutical-researcher.md
+└── customer-success-manager.md
+
+TOTAL: 40 files
+TOTAL SIZE: ~2.5 MB (all text/markdown)
+
+⭐ = Highly detailed with complete course information
